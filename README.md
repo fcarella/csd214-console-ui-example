@@ -2,7 +2,7 @@
 
 This project is a simple, yet effective, demonstration of a console-based user interface in Java. It showcases a hierarchical menu system that allows users to navigate through different options and perform actions.
 
-### >Credits:  
+### Credits:  
 >Rodney Martin
 
 ## How the Code Works
