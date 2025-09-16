@@ -1,0 +1,7 @@
+target
+.mvn
+.idea
+console-ui-example.zip
+.files2ignore
+.gitignore
+src/test
